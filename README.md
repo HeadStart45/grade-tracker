@@ -23,8 +23,8 @@ Limitations / Not Yet Implemented:
 If you encounter any issues or bugs please email headstartdevelopment@gmail.com
 
 Acknowledgements:
-Written in C++ using the Walnut ImGui wrapper from The Cherno. You can find details on this excellent system here: 
+- Written in C++ using the Walnut ImGui wrapper from The Cherno. You can find details on this excellent system here: 
 https://github.com/TheCherno/Walnut
 and watch a Youtube video on the topic here:
 https://www.youtube.com/watch?v=5zS-DZhCA2g&ab_channel=TheCherno
-Uses tinyxml an excellent xml parsing library
+- Uses tinyxml an excellent xml parsing library
